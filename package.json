@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "dist/three-dom.umd.js",
-  "module": "dist/three-dom.es5.js",
+  "module": "dist/three-dom.esm.js",
   "typings": "dist/types/three-dom.d.ts",
   "files": [
     "dist"
@@ -92,12 +92,9 @@
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^1.0.1",
     "jest": "^23.6.0",
-    "jest-config": "^23.6.0",
     "lint-staged": "^8.0.0",
     "lodash.camelcase": "^4.3.0",
     "prettier": "^1.14.3",
-    "prompt": "^1.0.0",
-    "replace-in-file": "^3.4.2",
     "rimraf": "^2.6.2",
     "rollup": "^1.1.1",
     "rollup-plugin-commonjs": "^9.1.8",
@@ -112,7 +109,6 @@
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.15.0",
-    "tslint-config-standard": "^8.0.1",
     "typedoc": "^0.14.2",
     "typescript": "^3.0.3"
   },

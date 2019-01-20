@@ -1,3 +1,4 @@
+/* tslint:disable:no-var-requires no-console */
 const path = require('path');
 const { fork } = require('child_process');
 const colors = require('colors');
