@@ -7,8 +7,6 @@
     "strict": true,
     "sourceMap": true,
     "declaration": true,
-    "resolveJsonModule": true,
-    "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
