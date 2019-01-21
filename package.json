@@ -118,5 +118,9 @@
       "pre-commit": "lint-staged",
       "pre-push": "npm run test:prod && npm run build"
     }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
